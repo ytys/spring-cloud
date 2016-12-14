@@ -1,4 +1,4 @@
-package cloud.simple.hello;
+package cloud.simple.service;
 
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
