@@ -36,6 +36,7 @@ public class UserService {
         User user = new User();
         user.setUsername("TestHystrixCommand");
         ls.add(user);
+
         return ls;
     }
 }
